@@ -1,0 +1,19 @@
+{
+  "name": "roomchat-master",
+  "version": "1.0.0",
+  "description": "testing chat",
+  "main": "chat.js",
+  "dependencies":{
+  	"express": "*",
+  	"socket.io":"*"
+  },
+  "devDependencies":{},
+  "scripts": {
+    "start": "node chat.js"
+  },
+  "engines":{
+  	"node": "6.10.3"
+  },
+  "author": "Jessy",
+  "license": "ISC"
+}
